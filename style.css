@@ -49,9 +49,8 @@ html {
  .person__position {
     font-size: 18px;
     color: #545454;
-    margin: 0 auto;
+    margin: 0;
     font-style: italic ;
-
   }
   .special{
     color: #ED6D05;
